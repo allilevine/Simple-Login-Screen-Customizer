@@ -214,9 +214,9 @@ function simpleloginscreencustomizer_plugin_validate_input( $input ) {
 
 // Load Scripts
 function simpleloginscreencustomizer_enqueue_scripts() {
-	wp_register_script( 'simpleloginscreencustomizer-upload', plugins_url() .'/simple-login-screen-customizer/js/simple-login-screen-customizer-upload.js', array('jquery','media-upload','thickbox') );
+	wp_register_script( 'simpleloginscreencustomizer-upload', plugins_url( 'js/simple-login-screen-customizer-upload.js', __FILE__ ), array('jquery','media-upload','thickbox') );
 	
-	wp_register_script( 'simpleloginscreencustomizer-colorpicker', plugins_url() .'/simple-login-screen-customizer/js/simple-login-screen-customizer-colorpicker.js', array('wp-color-picker'), false, true );
+	wp_register_script( 'simpleloginscreencustomizer-colorpicker', plugins_url( 'js/simple-login-screen-customizer-colorpicker.js', __FILE__ ), array('wp-color-picker'), false, true );
 	
 	$screen = get_current_screen();
 	if ( 'settings_page_simpleloginscreencustomizer_plugin_options' == $screen->id ) {

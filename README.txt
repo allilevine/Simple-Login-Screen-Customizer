@@ -1,7 +1,7 @@
 === Simple Login Screen Customizer ===
 Contributors: firewatch
 Tags: login, login screen, logo, customize, custom logo, custom colors
-Requires at least: 3.5.1
+Requires at least: 3.7.1
 Tested up to: 3.8
 Stable tag: 1.0.0
 License: GPLv2 or later
