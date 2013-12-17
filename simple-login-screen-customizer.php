@@ -3,12 +3,12 @@
  * @package   Simple Login Screen Customizer
  * @author    Allison Levine (firewatch)
  * @license   GPL-2.0+
- * @link      https://github.com/allilevine
+ * @link      https://github.com/allilevine/Simple-Login-Screen-Customizer
  * @copyright 2013 Allison Levine
  *
  * @wordpress-plugin
  * Plugin Name:       Simple Login Screen Customizer
- * Plugin URI:        https://github.com/allilevine
+ * Plugin URI:        https://github.com/allilevine/Simple-Login-Screen-Customizer
  * Description:       Choose a link color and logo for the login screen.  You can also choose rollover and button colors if you'd like.  Otherwise they will default to shades of the link color.
  * Version:           1.0.0
  * Author:            Allison Levine (firewatch)
