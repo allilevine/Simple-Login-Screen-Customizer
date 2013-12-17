@@ -7,7 +7,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Choose a link color and logo for the login screen.  The plugin will do the rest, though you can also choose rollover and button colors if you'd like.
+Choose a logo and link color for the login screen.  The plugin will do the rest.
 
 == Description ==
 
@@ -44,14 +44,7 @@ The plugin also links the new logo to your site URL.
 3. Upload the `simple-login-screen-customizer` directory to the `/wp-content/plugins/` directory
 4. Activate the plugin in the Plugin dashboard
 
-
-== Frequently Asked Questions ==
-
 == Screenshots ==
 
 1. Choosing a logo and colors.
 2. The login screen, customized.
-
-== Changelog ==
-
-== Upgrade Notice ==
