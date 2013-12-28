@@ -94,7 +94,7 @@ function simpleloginscreencustomizer_initialize_plugin_options() {
 	
 	add_settings_field(
 		'simpleloginscreencustomizer_rollover_color',
-		__('Login Rollover Color', 'simpleloginscreencustomizer_plugin_display_options'),
+		__('Link Rollover Color', 'simpleloginscreencustomizer_plugin_display_options'),
 		'simpleloginscreencustomizer_rollover_color_callback',
 		'simpleloginscreencustomizer_plugin_display_options',
 		'login_settings_section'
